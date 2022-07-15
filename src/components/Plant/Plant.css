@@ -1,0 +1,17 @@
+.plant {
+    margin: 1.5vw;
+    background-color: #ffffff;
+    width: 23vw;
+    height: 50vh;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    
+}
